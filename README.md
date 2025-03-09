@@ -1,4 +1,4 @@
-<h1>Welcome to Kyle Ritchie's Personal Github Repository</h1>
+<h1>Welcome to Kyle Ritchie's Personal GitHub Repository</h1>
 
 This github contains a number of cybersecurity related personal projects which I am currently working on. 
 
