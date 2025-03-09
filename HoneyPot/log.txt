@@ -1,2 +1,0 @@
-New Connection From ('127.0.0.1', 65025)
-HelloWorld

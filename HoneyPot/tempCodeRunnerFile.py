@@ -1,1 +1,0 @@
-ssh -p 2292 kyle@192.168.98.99 "lsof /dev/pts/*"
