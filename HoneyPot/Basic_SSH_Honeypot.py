@@ -2,7 +2,6 @@
 #ssh -p 22 kyle@0.0.0.0
 
 import socket 
-import threading 
 import paramiko
 #Remember to uninstall the cryptography 
 #Remember to uninstall bcrypt 
