@@ -4,9 +4,6 @@
 import socket 
 import threading 
 import paramiko
-import pysftp as sftp
-import crypto
-import os
 #Remember to uninstall the cryptography 
 #Remember to uninstall bcrypt 
 #Remember to uninstall nacl 
@@ -85,7 +82,8 @@ if __name__ == "__main__":
     while True:
         clientSocket, clientAddr = server.accept()
         
-        print(count)
+        #Creates a new file to log the users activities
+        #print(count)
         count = count + 1
         file = open("log" + str(count) + ".txt", "w")
 
