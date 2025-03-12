@@ -1,4 +1,4 @@
-#ssh localhost -p 2292
+#ssh localhost -p 22
 #ssh -p 22 kyle@0.0.0.0
 
 import socket 
