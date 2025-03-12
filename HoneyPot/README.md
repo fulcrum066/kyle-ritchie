@@ -5,7 +5,9 @@ This project is a Python program which enables users to host a SSH Honeypot serv
 
 <h2>How to run: </h2>
 <body>
-In order to run the program (the file named 'Basic_SSH_Honeypot.py'), you will need to ensure that you have installed the python socket library, paramiko library and the other libraries which paramiko relies upon, these being cryptography, bcrypt, and pynacl.
+<p>In order to run the program (the file named 'Basic_SSH_Honeypot.py'), you will need to ensure that you have installed the python socket library, paramiko library and the other libraries which paramiko relies upon, these being cryptography, bcrypt, and pynacl.</p1> 
+
+<p>Once you have started running the program, use the command ‘ssh localhost -p 22’ to access the server. When attempting to log into the SSH Server you will be asked for a password. This password is ‘HelloWorld’.</p>
 </body>
 
 <h2>Resources Used: </h2> 
