@@ -5,9 +5,9 @@ Description: In this project, I am attempting to create a program which can dete
 Currently I have almost finished creating this packet sniffer, and have also found a YouTube tutorial which I can use to create the analysis algorithm. 
 
 In the future, I would like to learn how to use the pytorch library within Python in order to create an AI to replace the analysis algorithm.
+</body>
 
-Resources Used:
+<h2>Resources Used: </h2>
 <li>https://www.youtube.com/watch?v=WGJC5vT5YJo&list=PL6gx4Cwl9DGDdduy0IPDDHYnUx66Vc4ed&index=1</li>
 
 <li>Chatgpt</li>
-</body>
