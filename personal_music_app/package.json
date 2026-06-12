@@ -1,22 +1,15 @@
 {
-  "name": "music-app",
+  "name": "personal_music_app",
   "version": "1.0.0",
-  "description": "Personalised music app using Apple Music and Spotify APIs",
-  "keywords": [
-    "electron",
-    "music",
-    "spotify",
-    "apple-music"
-  ],
+  "description": "Music app with personalised UI and containing features from Apple Music and Spotify",
   "license": "MIT",
   "author": "Kyle Ritchie",
   "type": "commonjs",
   "main": "main.js",
   "scripts": {
-    "start": "electron .",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron ."
   },
   "devDependencies": {
-    "electron": "^42.3.3"
+    "electron": "^42.4.0"
   }
 }
